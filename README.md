@@ -1,2 +1,3 @@
-# democratizing-ai
+# Democratizing-AI
+
 About Democratizing-AI
